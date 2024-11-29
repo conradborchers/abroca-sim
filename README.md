@@ -15,7 +15,6 @@ Borchers, C., & Baker, R. S. (2025). ABROCA Distributions For Algorithmic Bias A
     location  = {Dublin, Ireland},
     publisher = {Association for Computing Machinery},
     address   = {New York, NY, USA},
-    pages     = {7},
     doi       = {10.1145/3706468.3706498},
     month     = {03},
     year      = {2025}
